@@ -1,0 +1,17 @@
+{
+  "name": "smart-split",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hydrarulz/smart-split.git",
+  "author": "Daniel Luca <daniel.luca@consensys.net>",
+  "license": "MIT",
+  "scripts": {
+    "testrpc": "testrpc",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "ethereumjs-testrpc": "^6.0.1",
+    "truffle": "v3.4.11"
+  }
+}
